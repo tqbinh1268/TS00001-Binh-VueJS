@@ -2,10 +2,12 @@
 import HelloWorld from './components/HelloWorld.vue'
 import Test from './components/Test.vue';
 import Trang34 from './components/Trang34.vue';
+import Directives from './components/Directives.vue';
 </script>
 
 <template>
-  <Trang34/>
+  <Directives/>
+  <!-- <Trang34/> -->
   <!-- <div>
     <a href="https://vite.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
